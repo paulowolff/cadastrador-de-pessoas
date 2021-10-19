@@ -1,0 +1,22 @@
+[
+    {
+        "nome":"Dante Ribeiro",
+        "email":"dante@digitalhouse.com"
+    },
+    {
+        "nome":"Elvis",
+        "email":"elvis@google.com"
+    },
+    {
+        "nome": "Greco",
+        "email": "greco.galindo@gmail.com"
+    },
+    {
+        "nome": "maria rodrigues",
+        "email": "maria@oi.com.br"
+    },
+    {
+        "nome": "josé rodrigues",
+        "email": "jose@oi.com.br"
+    }
+]
